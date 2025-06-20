@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on **my dream**
- 🌱 I’m currently learning **him**
-⚡ Fun fact: **yapping is fun, bakso enak**
-😄 Best Combo is [**NIKI**](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh?si=US66iopMTlCWIXyn-bWw5A) N [**ROBLOX**](https://www.roblox.com/share?code=a02509395488d24e8b9eb76dcc96498e&type=Profile&source=ProfileShare&stamp=1750441376565)
+- 🔭 I’m currently working on **my dream**
+- 🌱 I’m currently learning **him**
+- ⚡ Fun fact: **yapping is fun, bakso enak**
+- 😄 Best Combo is [**NIKI**](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh?si=US66iopMTlCWIXyn-bWw5A) N [**ROBLOX**](https://www.roblox.com/share?code=a02509395488d24e8b9eb76dcc96498e&type=Profile&source=ProfileShare&stamp=1750441376565)
