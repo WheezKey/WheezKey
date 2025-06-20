@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 🔭 I’m currently working on **my dream**
  🌱 I’m currently learning **him**
 ⚡ Fun fact: **yapping is fun, bakso enak**
