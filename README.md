@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 
 ##### On 🔝
 ![https://github.com/WheezKey](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![https://open.spotify.com/user/uhg8hr6u0tolcjuzjrlt6df7a?si=iY1l3uW5RFOxEuGoTMzc_Q](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)![https://open.spotify.com/user/uhg8hr6u0tolcjuzjrlt6df7a?si=iY1l3uW5RFOxEuGoTMzc_Q](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)
+
+
+### ⚡
+![KEY's GitHub stats](https://github-readme-stats.vercel.app/api?username=WheezKey&show_icons=true&theme=ocean_dark)
