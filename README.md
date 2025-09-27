@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on **dad company**
-- **I LOVE LOOKMHEE**
+- ✨**I LOVE LOOKMHEE**
 - ⚡ Fun fact: **yapping is fun, bakso enak**
-- 😄 Best Combo is **sleep when rain**
+- 😄 My Hobby **sleep when rain**
 
 ##### Skils
 
